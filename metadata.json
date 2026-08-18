@@ -1,0 +1,6 @@
+{
+  "name": "The Bot - AI Agency",
+  "description": "High-performance, AI-driven marketing and technology agency website featuring intelligent digital solutions, industry capabilities, methodology, partner ecosystem, and interactive AI audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
