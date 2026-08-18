@@ -651,7 +651,7 @@ export const GLOBAL_NODES = [
 export const EXPERTISE_AREAS = [
   {
     number: '01',
-    image: 'src/assets/images/digi growth.jpg',
+    image: 'src/assets/images/digi-growth.jpg',
     title: 'Digital Growth',
     icon: 'TrendingUp',
     tagline: 'We create growth-focused digital strategies that help businesses reach the right audience and convert attention into measurable opportunities.',
@@ -691,7 +691,7 @@ export const EXPERTISE_AREAS = [
   },
   {
     number: '03',
-    image: 'src/assets/images/web and tech.jpg',
+    image: 'src/assets/images/web-and-tech.jpg',
     title: 'Web & Technology Development',
     icon: 'Code2',
     tagline: 'We build modern digital experiences that combine design, performance, functionality, and search readiness.',
